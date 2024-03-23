@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @sohaibgill344
+- 👀 I’m interested in bioinformatics/data science and related fields 
+- 🌱 I’m currently learning data analysis and on an exciting journey that leads through data analysis visualization ml/ai and beyond.
+- 💞️ I’m looking to collaborate on projects that involve exploring, analyzing, and deriving insights from data. Whether it's predictive modeling, natural language processing, computer vision, or any other fascinating data-related endeavor, I'm keen to contribute my skills and expertise.
+- 📫 How to reach me I'm always open to collaborations, discussions, and learning opportunities within the data science community. Feel free to reach out to me via [Email](sohaibarshman6@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/sohaib-arshman-19a47a20b).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact:  In a parallel universe, I'm probably a data scientist for a team of superhero analysts, predicting villainous schemes before they even happen!
